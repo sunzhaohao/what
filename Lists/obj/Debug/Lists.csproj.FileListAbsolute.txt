@@ -1,0 +1,9 @@
+D:\C#\chaptor15\Lists\Lists\bin\Debug\Lists.exe.config
+D:\C#\chaptor15\Lists\Lists\bin\Debug\Lists.exe
+D:\C#\chaptor15\Lists\Lists\bin\Debug\Lists.pdb
+D:\C#\chaptor15\Lists\Lists\obj\Debug\Lists.csprojResolveAssemblyReference.cache
+D:\C#\chaptor15\Lists\Lists\obj\Debug\Lists.Form1.resources
+D:\C#\chaptor15\Lists\Lists\obj\Debug\Lists.Properties.Resources.resources
+D:\C#\chaptor15\Lists\Lists\obj\Debug\Lists.csproj.GenerateResource.Cache
+D:\C#\chaptor15\Lists\Lists\obj\Debug\Lists.exe
+D:\C#\chaptor15\Lists\Lists\obj\Debug\Lists.pdb
